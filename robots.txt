@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+# Public social preview crawling is permitted; HTML pages remain noindex until client approval.
